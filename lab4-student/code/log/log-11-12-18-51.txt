@@ -1,0 +1,1 @@
+2022-11-12 18-51-12: batch_size: 1024 device: cpu embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 30 ratio: 0.8

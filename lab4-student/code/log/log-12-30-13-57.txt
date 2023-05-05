@@ -1,0 +1,5 @@
+2022-12-30 13-57-43: batch_size: 1024 device: cpu embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 30 ratio: 0.8
+2022-12-30 13-57-55: Epoch 0: trainLoss 1.2025,testLoss 1.1755
+2022-12-30 13-58-10: Epoch 1: trainLoss 1.0941,testLoss 1.0684
+2022-12-30 13-58-22: Epoch 2: trainLoss 1.0684,testLoss 1.0391
+2022-12-30 13-58-34: Epoch 3: trainLoss 1.0528,testLoss 1.0270

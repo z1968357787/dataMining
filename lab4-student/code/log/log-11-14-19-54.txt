@@ -1,0 +1,33 @@
+2022-11-14 19-54-05: batch_size: 1024 device: cpu embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 30 ratio: 0.8
+2022-11-14 19-54-23: Epoch 0: trainLoss 1.0695,testLoss 1.0769
+2022-11-14 19-54-41: Epoch 1: trainLoss 1.0518,testLoss 1.0264
+2022-11-14 19-54-58: Epoch 2: trainLoss 1.0099,testLoss 1.0023
+2022-11-14 19-55-16: Epoch 3: trainLoss 0.9532,testLoss 0.9879
+2022-11-14 19-55-34: Epoch 4: trainLoss 1.0164,testLoss 0.9826
+2022-11-14 19-55-52: Epoch 5: trainLoss 0.9494,testLoss 0.9707
+2022-11-14 19-56-09: Epoch 6: trainLoss 0.9649,testLoss 0.9689
+2022-11-14 19-56-27: Epoch 7: trainLoss 0.9296,testLoss 0.9666
+2022-11-14 19-56-45: Epoch 8: trainLoss 0.9678,testLoss 0.9606
+2022-11-14 19-57-03: Epoch 9: trainLoss 0.9879,testLoss 0.9558
+2022-11-14 19-57-21: Epoch 10: trainLoss 0.9450,testLoss 0.9537
+2022-11-14 19-57-39: Epoch 11: trainLoss 0.9076,testLoss 0.9535
+2022-11-14 19-57-57: Epoch 12: trainLoss 0.9319,testLoss 0.9496
+2022-11-14 19-58-15: Epoch 13: trainLoss 0.9190,testLoss 0.9625
+2022-11-14 19-58-33: Epoch 14: trainLoss 0.9784,testLoss 0.9526
+2022-11-14 19-58-51: Epoch 15: trainLoss 0.9518,testLoss 0.9581
+2022-11-14 19-59-09: Epoch 16: trainLoss 0.8890,testLoss 0.9434
+2022-11-14 19-59-28: Epoch 17: trainLoss 0.9594,testLoss 0.9426
+2022-11-14 19-59-46: Epoch 18: trainLoss 0.9682,testLoss 0.9558
+2022-11-14 20-00-04: Epoch 19: trainLoss 0.9429,testLoss 0.9395
+2022-11-14 20-00-22: Epoch 20: trainLoss 0.9488,testLoss 0.9385
+2022-11-14 20-00-40: Epoch 21: trainLoss 0.9026,testLoss 0.9372
+2022-11-14 20-00-58: Epoch 22: trainLoss 0.9260,testLoss 0.9360
+2022-11-14 20-01-16: Epoch 23: trainLoss 0.9207,testLoss 0.9408
+2022-11-14 20-01-34: Epoch 24: trainLoss 0.9424,testLoss 0.9309
+2022-11-14 20-01-52: Epoch 25: trainLoss 0.8918,testLoss 0.9319
+2022-11-14 20-02-11: Epoch 26: trainLoss 0.9076,testLoss 0.9533
+2022-11-14 20-02-29: Epoch 27: trainLoss 0.9434,testLoss 0.9288
+2022-11-14 20-02-48: Epoch 28: trainLoss 0.8971,testLoss 0.9432
+2022-11-14 20-03-06: Epoch 29: trainLoss 0.9515,testLoss 0.9280
+2022-11-14 20-03-06: Epoch 16: bestTrainLoss 0.8890
+2022-11-14 20-03-06: Epoch 29: bestTestLoss 0.9280
